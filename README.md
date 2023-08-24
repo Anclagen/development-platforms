@@ -2,6 +2,8 @@
 
 *A student written library of development platform case studies.*
 
+https://library.noroff.dev/
+
 **Please do not delete this file!**
 
 ## Purpose
